@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,MIFD-070 永濑唯★本物アイドルAV解禁外神田からやってきたミニマムCuteガール149cm 2019
+#EXTINF:-1 group-title="A JAV",MIFD-070 永濑唯★本物アイドルAV解禁外神田からやってきたミニマムCuteガール149cm 2019
 https://fc.maa1808.com/n/shnlrwlnlo/shnlrwlnlo.m3u8
 #EXTINF:-1 group-title="A JAV" tvg-logo="https://arcjav.com/wp-content/uploads/2021/04/199222274_1616670l.jpg",ABW-089
 https://arcjav1.arc1314.workers.dev/1:/Project%20arcjav/May%202021/6.5%20Project/Prestige/ABW-089.mp4
@@ -75,7 +75,7 @@ https://surrit.com/005942c7-64ee-487e-886d-8e5ec5927a2e/1280x720/video.m3u8
 https://surrit.com/007325ed-29f1-441c-9ab8-429c703b6a00/1280x720/video.m3u8
 #EXTINF:-1 group-title="熟女人妻" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",VENX-247 我儿子的妻子 Mai Arisu 被她的公公体内射精，并获得了解真实性的乐趣
 https://surrit.com/00787567-2f69-49eb-9c00-3e38b2a3b56e/1280x720/video.m3u8
-#EXTINF:-1 ,#17 柇伽满必审 伟大的飞翔友！夏美最美的离婚故事（32）【补充礼物】
+#EXTINF:-1 group-title="熟女人妻",#17 柇伽满必审 伟大的飞翔友！夏美最美的离婚故事（32）【补充礼物】
 https://surrit.com/00821857-b04c-4f64-8edc-6b04d1789096/1280x720/video.m3u8
 #EXTINF:-1 group-title="熟女人妻" tvg-logo="https://yang-1989.eu.org/logo/NSFW.png",ALDN-235 我实在受不了了，我媳妇是我舅舅夏川步美
 https://surrit.com/0088982b-cd04-45bb-ae6d-ce30411d56f0/1280x720/video.m3u8
